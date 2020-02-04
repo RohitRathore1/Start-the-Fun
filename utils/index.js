@@ -4,13 +4,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: process.env.FIREBASE_API_KEY,
+  apiKey: 'AIzaSyCd21jtV3DbRZ1CedgwaRcODFAzcV2lB4Q',
   authDomain: 'start-the-fun-ec6e4.firebaseapp.com',
   databaseURL: 'https://start-the-fun-ec6e4.firebaseio.com',
   projectId: 'start-the-fun-ec6e4',
   storageBucket: 'start-the-fun-ec6e4.appspot.com',
-  messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID,
-  appId: process.env.FIREBASE_APP_ID,
+  messagingSenderId: '701882845602',
+  appId: '1:701882845602:web:85ff81bcec299b84c9cafb',
 };
 
 if (!firebase.apps.length) {
