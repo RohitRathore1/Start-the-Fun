@@ -5,10 +5,10 @@ import 'firebase/auth';
 
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_API_KEY,
-  authDomain: 'start-the-fun-5a325.firebaseapp.com',
-  databaseURL: 'https://start-the-fun-5a325.firebaseio.com',
-  projectId: 'start-the-fun-5a325',
-  storageBucket: 'start-the-fun-5a325.appspot.com',
+  authDomain: 'start-the-fun-ec6e4.firebaseapp.com',
+  databaseURL: 'https://start-the-fun-ec6e4.firebaseio.com',
+  projectId: 'start-the-fun-ec6e4',
+  storageBucket: 'start-the-fun-ec6e4.appspot.com',
   messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID,
   appId: process.env.FIREBASE_APP_ID,
 };
